@@ -1,0 +1,2 @@
+# go-ws
+Exploring Go.
